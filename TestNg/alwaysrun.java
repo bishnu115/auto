@@ -18,6 +18,6 @@ public class alwaysrun {
 	public void b()
 	{
 			
-		System.out.println("i");
+		System.out.println("ivvhvhvhj");
 	}
 }
